@@ -4,5 +4,6 @@ include cos
 main()
 int x
 cin x
+int d = 2+2;
 cout >> x
 ;
