@@ -1,3 +1,4 @@
+
 include cos
 
 
@@ -7,3 +8,7 @@ cin x
 int d = 2+2;
 cout >> x
 ;
+java
+getter
+setter
+
