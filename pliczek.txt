@@ -1,6 +1,8 @@
- cos tam
-trololo
-xddd
+include cos
 
 
-zmiany nr2 d
+main()
+int x
+cin x
+cout >> x
+;
