@@ -8,6 +8,7 @@ cin x
 int d = 2+2;
 cout >> x
 ;
+COUT <D+D
 java
 getter
 setter
